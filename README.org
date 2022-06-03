@@ -1,0 +1,4 @@
+* Odin-Mode for Emacs
+Odin syntax highlighting and auto-completions for the Odin Programming language
+* directions
+just add (load-file "File location here") to your init

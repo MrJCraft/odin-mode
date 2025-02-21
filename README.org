@@ -1,5 +1,7 @@
 * Odin-Mode for Emacs
 Odin syntax highlighting and auto-completions for the Odin Programming language
-this is in its early stages, and I plan on updating in the future, and add yasnippets and many other features however just like you I need to program too lol
+
+this was made because I needed one, however I really dont know what I am doing, give it a try and see if it works for you, if there is something missing its very easy to add new syntax.
+I am not sure if I will update this further maybe maybe not.
 * directions
 just add (load-file "File location here") to your init
